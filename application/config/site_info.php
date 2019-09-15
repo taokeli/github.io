@@ -10,8 +10,9 @@ $config['site_name'] = '33号铺';
 //本app_id和app_secret仅做测试用途
 //请去淘宝开放平台申请自己的应用key和secret
 //http://open.taobao.com/index.htm
-$config['appkey'] = '12673864';
-$config['secretkey'] = 'd4cb57d3eec5d6f1cbbfd0f430caf282';
+$config['appkey'] = '
+876500391';
+$config['secretkey'] '';
 
 //如果你处于防火墙之中，需要配置HTTP代理，请配置你的HTTP代理服务器地址和IP
 //否则，请留空
